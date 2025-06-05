@@ -4,6 +4,7 @@ IntelliResume Pro is an advanced web-based resume builder featuring AI-powered s
 
 **Live Demo:** 
 
+![resume](https://github.com/user-attachments/assets/47b2670a-8603-4365-b53a-d6433a5a5a3a)
 
 
 ## ✨ Features
